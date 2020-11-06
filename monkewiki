@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Images</title>
+
+     <style> 
+      
+      body 
+      {
+        background-color: rgb(255, 185, 99);
+      }
+
+     </style>
+
+
+    </head>
+    <body>
+
+    <h1>                     Monkey wiki</h1>
+   
+   
+   
+    <h3>Different types of monkeys</h3>
+   
+    <ol>
+        <li>Funky Monkey</li> <br>
+       <img src=https://i.ytimg.com/vi/QjyHnZnXWKw/maxresdefault.jpg alt="funny monkey" width="103">
+
+
+        <li> <em>Crazy</em> Monkey!</li> <br>
+        <img src="https://esthernewtonblog.files.wordpress.com/2013/11/crazy-monkey-gamesclick-on-this-so-you-can-see-a-crazy-monkey-about-me-3agbm4su.jpg" alt="crazy monkey" width="103">
+       
+        <li><strong><em>Frank</em></strong></li> <br>
+        <img src="https://i.redd.it/umpe5lem2pa51.jpg" alt="cool monkey with glasses" width="103">
+       
+    </ol>
+   
+    <h3>What monkeys eat</h3>
+   
+    <ul>
+        <li>Bannana</li>
+        <li>Bannana</li>
+        <li>Bannana</li>
+
+       
+    </ul>
+   
+    <h2>Basic info</h2>
+   
+    <p>Monkeys are the best Animals because they are very <em>epic</em></p>
+   
+   
+    </body>
+</html>
